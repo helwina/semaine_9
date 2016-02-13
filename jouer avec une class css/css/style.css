@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+button {
+    border-radius: 5px;
+}
+
+button:hover {
+    background: #b8b5c1;
+}
+
+/*donne un background aux element selectionner*/
+
+.selected {
+    width: 75px;
+    background-color: #88f;
+}
+
+/*suprime les elements selectionner*/
+
+.trash {
+    display: none;
+}
